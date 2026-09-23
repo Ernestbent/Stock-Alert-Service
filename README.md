@@ -1,1 +1,1 @@
-# Stock-Alert-Service .
+# Stock-Alert-Service.
